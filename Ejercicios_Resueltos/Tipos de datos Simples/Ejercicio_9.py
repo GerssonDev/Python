@@ -9,4 +9,4 @@ n_años = int(input("Ingrese el numero de años: "))
 
 capital_obtenido =  round( cantidad_invertir * (1 + (interes_anual / 100)) ** n_años,2)
 
-print("El capital obtenido de la inversion es: ",capital_obtenido)
+print(f"El capital obtenido de la inversion es:{capital_obtenido}")

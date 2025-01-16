@@ -3,5 +3,5 @@ Escribir un programa que pregunte el nombre del usuario en la consola y después
 donde <nombre> es el nombre que el usuario haya introducido.
 """
 nombre = input("Ingresa tu Nombre ")
-print("Hola", nombre)
+print(f"Hola {nombre}")
 

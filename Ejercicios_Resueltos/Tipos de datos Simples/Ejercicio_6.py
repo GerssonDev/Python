@@ -7,4 +7,4 @@ suma=n(n+1)/2
 n = int(input("Ingrese un numero "))
 suma = (n*(n+1))/2
 
-print("La suma del primer numero entero desde 1 hasta ",n, "es ", suma)
+print(f"La suma del primer numero entero desde 1 hasta {n} es: {suma}")

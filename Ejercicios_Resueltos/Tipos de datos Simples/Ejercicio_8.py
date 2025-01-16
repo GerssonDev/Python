@@ -9,5 +9,5 @@ m = int(input("Ingrese el segundo numero entero: "))
 c = n // m
 r = n % m
 
-print("El cociente es: ",c)
-print("El resto es: ",r)
+print(f"El cociente es: {c}")
+print(f"El resto es: {r}")
