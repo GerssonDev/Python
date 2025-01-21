@@ -6,3 +6,4 @@ y después muestre por pantalla la misma frase pero con la vocal introducida en 
 frase = input("Introduce una frase: ")
 vocal = input("Introduce una vocal en minúscula:  ")
 print(frase.replace(vocal, vocal.upper()))
+
